@@ -1,0 +1,13 @@
+section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    margin: 10px;
+}
+
+li{
+    margin: 15px;
+}

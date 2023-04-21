@@ -85,6 +85,7 @@ article ul li{
     width: min-content;
     height: min-content;
     padding-bottom: 152px;
+    background-color: #19191a;
 }
 
 #sao_carlos{
@@ -98,6 +99,7 @@ article ul li{
     width: min-content;
     height: min-content;
     padding-bottom: 104px;
+    background-color: #19191a;
 }
 
 #araraquara{
@@ -108,6 +110,7 @@ article ul li{
     border: 3px solid white;
     width: min-content;
     height: min-content;
+    background-color: #19191a;
 }
 
 #aprezentacao{

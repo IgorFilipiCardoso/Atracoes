@@ -75,16 +75,19 @@ article ul li{
 }
 
 #ibate{
-    margin: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 110px;
     position: relative;
-    top: -72px;
+    top: -74px;
     padding: 80px;
     border-radius: 50px;
     display: inline-block;
     border: 3px solid white;
     width: min-content;
     height: min-content;
-    padding-bottom: 152px;
+    padding-bottom: 154px;
     background-color: #19191a;
 }
 

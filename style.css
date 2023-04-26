@@ -30,8 +30,8 @@ li{
 }
 
 div{
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    place-items: center;
     text-align: left;
     width: fit-content;
     height: fit-content;

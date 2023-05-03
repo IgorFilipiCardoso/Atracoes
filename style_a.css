@@ -141,3 +141,7 @@ section img{
     justify-content: center;
 
 }
+
+.flecha_baixo{
+    align-content: flex-start;
+}

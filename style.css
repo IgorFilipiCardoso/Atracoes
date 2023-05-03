@@ -22,7 +22,6 @@ header, footer{
 
 #preto_branco{
     align-self: flex-start;
-    display: flex;
     filter: invert();
     color: rgb(228, 249, 255);
     margin: 10px;

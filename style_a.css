@@ -113,14 +113,26 @@ div{
 }
 
 section img{
-    display: grid;
-    align-content: center;
-    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
     margin: 10px;
     border-radius: 73px;
     background: #454158;
     box-shadow:  22px 22px 44px #343142,
                 -22px -22px 44px #56516e;
+}
+
+.imagens{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+#imagens{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
 }
 
 .teste{

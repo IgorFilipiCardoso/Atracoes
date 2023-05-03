@@ -30,9 +30,10 @@ header, footer{
 }
 
 article ul{
+    background-color: 454158;
     list-style: none;
     border-radius: 50px;
-    border:5px solid rgbrgb(224, 225, 231);
+    border:5px solid rgb(224, 225, 231);
     font-size: 20px;
 }
 
@@ -107,7 +108,6 @@ div{
     box-shadow:  22px 22px 44px #343142,
                 -22px -22px 44px #56516e;
     margin: 10px;
-    background-color: #5a5574;
     display: grid;
     place-content: center;
 }
